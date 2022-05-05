@@ -1,4 +1,5 @@
 # HUDK-4051
+The following are all the individual coding exercises that we have done for this semester.  
 ICE 1: [ICE 1](https://github.com/WuRebecca/HUDK-4051/blob/main/22%20Spring%20ICE%201.ipynb)  
 ICE 1 Certificate: [Certificate](https://github.com/WuRebecca/HUDK-4051/blob/main/ICE%201%20Certificate.pdf)  
 ICE 2: [ICE 2](https://github.com/WuRebecca/HUDK-4051/blob/main/22%20Spring%20ICE%202.ipynb)  
